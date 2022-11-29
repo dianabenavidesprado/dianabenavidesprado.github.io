@@ -25,5 +25,3 @@ My professional experience is enriched by leadership in foundational research pr
 
 [Twitter](https://twitter.com/dianabenavidesp)
 
-[Google Scholar](https://scholar.google.co.nz)
-
