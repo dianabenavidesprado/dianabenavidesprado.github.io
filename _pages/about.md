@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Senior Researcher @The University of Auckland, CEO/Chief Scientist @Manoa Data</a>
 
 profile:
   align: right
   image: diana.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 Auckland, New Zealand</p>
+    <p>Auckland, New Zealand</p>
+	<p>Bogota, Colombia</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
