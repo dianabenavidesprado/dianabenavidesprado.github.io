@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Senior Researcher @The University of Auckland, CEO/Chief Scientist @Manoa Data</a>
+subtitle: <a href='#'>Senior Researcher at The University of Auckland, CEO/Chief Scientist at Manoa Data</a>
 
 profile:
   align: right
