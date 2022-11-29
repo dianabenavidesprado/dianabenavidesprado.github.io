@@ -22,4 +22,7 @@ I am a Computer Scientist with vast experience in exploiting data for scientific
 My professional experience is enriched by leadership in foundational research projects in advanced areas such as transfer learning, continual machine learning, large language models and human-algorithm collaboration. I have led groups of data scientists, data architects and machine learning engineers during the execution of research and applied projects.
 
 [LinkedIn](https://nz.linkedin.com/in/diana-benavides-prado) 
+
 [Twitter](https://twitter.com/dianabenavidesp)
+
+[Google Scholar](https://scholar.google.co.nz/citations?user=ayeIzIgAAAAJ&hl=en)
