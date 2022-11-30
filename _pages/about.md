@@ -10,9 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Auckland, New Zealand / Bogota, Colombia</p>
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Computer Scientist with vast experience exploiting data for science and decision making. I have more than 10 years of professional and research experience in data science, machine learning and artificial intelligence. I have worked with researchers and practitioners during planning and execution of projects in these areas, in a wide variety of domains including social welfare, healthcare, life sciences, justice and insurance. I have worked with both public and private sectors. 
