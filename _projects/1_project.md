@@ -1,8 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Los Angeles County Predictive Risk Model
+description: Los Angeles model
 importance: 1
 category: work
 ---
