@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Senior Researcher at The University of Auckland, CEO/Chief Scientist at Manoa Data</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: diana.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Auckland, New Zealand</p>
+	<p>Bogota, Colombia</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Computer Scientist with vast experience exploiting data for science and decision making. I have more than 10 years of professional and research experience in data science, machine learning and artificial intelligence. I have worked with researchers and practitioners during planning and execution of projects in these areas, in a wide variety of domains including social welfare, healthcare, life sciences, justice and insurance. I have worked with both public and private sectors. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My professional experience is enriched by leadership in foundational research projects in advanced areas such as transfer learning, continual machine learning, large language models and human-algorithm collaboration. I have led groups of data scientists, data architects and machine learning engineers during planning and execution of research and applied projects.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[LinkedIn](https://nz.linkedin.com/in/diana-benavides-prado) 
+
+[Twitter](https://twitter.com/dianabenavidesp)
+
