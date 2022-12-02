@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title:
 nav: true
 nav_order: 1
 ---
@@ -48,3 +48,6 @@ nav_order: 1
 
 - Benavides-Prado, D. (2017). A framework for long-term learning systems. In Proceedings of the 26th International Joint Conference on Artificial Intelligence (pp. 5167-5168).
 
+- Benavides-Prado, D. (2015). MOGACAR: A Method for Filtering Interesting Classification Association Rules. In International Workshop on Machine Learning and Data Mining in Pattern Recognition (pp. 172-183). Springer, Cham.
+
+- Benavides-Prado, D. K. (2012). KDBuss framework-knowledge discovery with association rules in the business context. Uniandes Masters Dissertation.
