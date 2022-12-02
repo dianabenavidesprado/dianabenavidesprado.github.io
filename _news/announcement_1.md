@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2015-12-10
 inline: true
 ---
 
-A simple inline announcement.
+I will be attending AusDM'22, more info: https://ausdm22.ausdm.org/index.html

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-08-19
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will be presenting our paper "A Theory for Knowledge Transfer in Continual Learning" at CoLLAs 2022. More info: https://virtual.lifelong-ml.cc/poster_58.html.
