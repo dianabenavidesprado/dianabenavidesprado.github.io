@@ -22,3 +22,4 @@ I have vast experience as invited speaker, organiser and committee member of sev
 
 [Twitter](https://twitter.com/dianabenavidesp)
 
+[Google Scholar](https://scholar.google.com/citations?user=ayeIzIgAAAAJ&hl=en&oi=ao)
