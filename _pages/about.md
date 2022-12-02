@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Senior Researcher at The University of Auckland, CEO/Chief Scientist at Manoa Data</a>
 
