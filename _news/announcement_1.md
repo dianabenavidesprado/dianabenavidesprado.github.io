@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-12-10
+date: 2022-12-10
 inline: true
 ---
 
-I will be attending AusDM'22, more info: https://ausdm22.ausdm.org/index.html
+I will be attending AusDM'22, more info: <a href='https://ausdm22.ausdm.org/index.html'>https://ausdm22.ausdm.org/index.html<a>
