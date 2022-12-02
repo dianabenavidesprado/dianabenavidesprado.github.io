@@ -74,7 +74,7 @@ Conference Organiser / Program Committee Member:
 - Program Committee Member for Australasian Conference on Data Mining AusDM (2018).
 
 
-Supervision, Advice and Mentoring: 
+Supervision, Advisory and Mentoring: 
 
 - Current: supervising 2 PhD students, mentoring 1 PhD student and 1 Summer Scholarship student.
 
