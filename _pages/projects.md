@@ -1,12 +1,16 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 nav: true
 nav_order: 2
 horizontal: false
 ---
 
-Selected Applied Projects
+
+Applied Research Projects
 
 Project 1: Los Angeles County Predictive Risk Model
+
+
+Foundational Research Projects
