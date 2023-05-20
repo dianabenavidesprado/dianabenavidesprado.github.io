@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-17
+date: 2023-05-01
 inline: true
 ---
 
-I will be giving a talk at NAOI Health Intelligence event.
+I am co-organising AusDM'23 (program chair). More info: <href> https://ausdm23.ausdm.org/ </href>

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-12
+date: 2023-05-15
 inline: true
 ---
 
-I will be attending AusDM'22, more info: <a href='https://ausdm22.ausdm.org/index.html'>https://ausdm22.ausdm.org/index.html<a>
+I will be joining the School of Computer Science, The University of Auckland, as Lecturer.
