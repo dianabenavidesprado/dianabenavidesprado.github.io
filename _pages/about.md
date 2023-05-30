@@ -9,16 +9,16 @@ profile:
   image: diana.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Auckland, New Zealand / Bogota, Colombia</p>
+    <p>Auckland, New Zealand</p>
 
 news: true
 ---
 
-I am a Computer Scientist with vast experience exploiting data for science and decision making. I have more than 10 years of professional and research experience in data science, machine learning and artificial intelligence. I have worked with researchers and practitioners during planning and execution of projects in these areas, in a variety of domains including social welfare, healthcare, life sciences, justice and insurance. I have collaborated with both public and private sectors, while leading groups of data scientists, data architects and machine learning engineers during planning and execution of research and applied projects.
+I am a computer scientist with extensive experience in data analysis for scientific research and decision-making. I have over 10 years of professional and research experience in data science, machine learning, and artificial intelligence. I have collaborated with researchers and practitioners in various domains, including social welfare, healthcare, life sciences, justice, and insurance, to plan and execute projects in these areas. I have worked with both public and private sectors in Colombia, Chile, the United States, New Zealand, and Australia, leading groups of data scientists, data architects, and machine learning engineers in research and applied projects.
 
-My professional experience is complemented by leadership of foundational research projects in advanced areas such as transfer learning, continual machine learning, large language models and human-algorithm collaboration. I am particularly interested in studying the opportunity of knowledge transfer for increasingly knowledgeable continual learning systems, and in applying cutting-edge machine learning techniques to challenging real-world problems especially in the life sciences domain. 
+My professional experience includes leadership of foundational research projects in advanced areas such as transfer learning, continual machine learning, large language models, and human-algorithm collaboration. I am particularly interested in studying the opportunities for knowledge transfer in increasingly knowledgeable continual learning systems and applying cutting-edge machine learning techniques to challenging real-world problems, especially in the life sciences domain and human well-being.
 
-I have vast experience as invited speaker, organiser and committee member of several top artificial intelligence conferences, including AAAI, IJCAI, NeurIPS and ICML. I am a board member of the Artificial Intelligence Researchers Association of New Zealand.
+I have extensive experience as an invited speaker, organizer, and committee member of several top artificial intelligence conferences, including AAAI, IJCAI, NeurIPS, ICML and ICDM. Additionally, I am a board member of the Artificial Intelligence Researchers Association of New Zealand.
 
 [LinkedIn](https://nz.linkedin.com/in/diana-benavides-prado) 
 

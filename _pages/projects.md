@@ -8,22 +8,6 @@ horizontal: false
 ---
 
 
-Selected Applied Research Projects:
-
-- Decision Aid Tool for Los Angeles County, CA, US (2020-2021). This project aimed at constructing, deploying and monitoring a machine learning tool to support decision making for screening referrals associated with child maltreatment at Los Angeles County. My role involved leading the Data Science and Software Engineering teams in the development, evaluation and deployment of this tool. Academic Collaborators: Rhema Vaithianathan, AUT, Emily Putnam-Hornstein, University of Southern California, Alexandra Chouldechova, Carnegie Mellon University. Industry/government partners: LA Department of Children and Family Services, Analytics for Change.
-
-- Decision Aid Tool for Douglas County and Larimer County, CO, US (2018-2021). This project aimed at constructing, deploying and monitoring a machine learning tool to support decision making for screening referrals associated to child maltreatment at Douglas County and Larimer County. My role involved leading the Data Science and Software Engineering teams in the development, evaluation and deployment of this tool. The evaluation included aspects of model fairness and subgroup discrimination, as well as machine learning interpretability. Academic collaborators: Rhema Vaithianathan, AUT. Industry/government partners: Douglas County Department of Human Services, Larimer County Department of Human Services, Mathematica Public Policy.
-
-- Allegheny Family Screening Tool for Allegheny County Department of Human Services, PA, US (2016- 2021). This project aimed at constructing, deploying and monitoring a machine learning tool to support decision making for screening referrals associated to child maltreatment. My role involved leading the Data Science and Software Engineering teams in the development, evaluation and deployment of this tool. The evaluation included aspects of model fairness and subgroup discrimination. Academic collaborators: Rhema Vaithianathan, AUT, Emily Putnam-Hornstein, University of Southern California, Alexandra Chouldechova, Carnegie Mellon University. Industry/government partners: Allegheny County Department of Human Services.
-
-- Prototype Model for Alerta Ninez, Santiago, Chile (2018-2019). This project was part of a nationwide initiative for the improvement of child protection services. My role involved the identification of machine learning model options to support decision making in child protection. I also lead the assessment and evaluation of model alternatives in terms of fairness and subgroup discrimination. Academic collaborators: Rhema Vaithianathan, AUT, Maria Hermosilla, Adolfo Ibanez University. Industry/government partners: Ministry of Social Development, Chile.
-
-- Information Management Initiative for the Colombian Geology Survey, Bogota, Colombia (2013-2016). My role involved supporting the Data Architecture and Data Governance team in the design and evaluation of architectural alternatives. I also lead the design of methodologies for data quality assessment. Academic collaborators: Orlando Cuevas, Dario Correal, German Bravo, University of Los Andes. Industry/government partners: Colombian Geology Survey, Spanish Geology Survey.
-
-- Data Strategy for the Colombian Public Pension Fund (Colpensiones), Bogota, Colombia (2010-2012). My role involved advising the Colombian Public Pension Fund in their data strategy, including migration of data from their legacy systems, designing a new data architecture according to their new business processes, evaluating and improving their data quality and designing their data governance structure and policies. Academic collaborators: Orlando Cuevas, Maria Villamil, University of Los Andes. Industry/government partners: Colombian Public Pension Fund.
-
-
-
 Selected Foundational Research Projects:
 
 - Knowledge Transfer in Continual Learning, Auckland, New Zealand (2022-current). This project aims to investigate mechanisms to encourage knowledge transfer whilst avoiding catastrophic forgetting in supervised continual learning. I am the principal investigator for this project. Collaborators: Patricia Riddle, The University of Auckland.
@@ -40,4 +24,21 @@ Collaborators: Michael Witbrock, Joshua Bensemann, Alex Peng, Trung Nguyen, Nese
 - Continual Correction of Errors Using Smart Memory Replay, Auckland, New Zealand (2019-2020). The goal of this project was to investigate and develop a method for smart experience replay for continual learning of a sequence of supervised tasks. This involved co-supervision of an Honours student. Collaborators: Yun Sing Koh, The University of Auckland.
 
 - A Framework for Long-Term Learning Systems, Auckland, New Zealand (2016-2019). The goal of this project was to investigate and develop methods for learning a sequence of supervised tasks using SVM. I was the principal investigator for this project. Collaborators: Patricia Riddle, Yun Sing Koh, The University of Auckland.
+
+
+Selected Applied Research Projects:
+
+- Decision Aid Tool for Los Angeles County, CA, US (2020-2021). This project aimed at constructing, deploying and monitoring a machine learning tool to support decision making for screening referrals associated with child maltreatment at Los Angeles County. My role involved leading the Data Science and Software Engineering teams in the development, evaluation and deployment of this tool. Academic Collaborators: Rhema Vaithianathan, AUT, Emily Putnam-Hornstein, University of Southern California, Alexandra Chouldechova, Carnegie Mellon University. Industry/government partners: LA Department of Children and Family Services, Analytics for Change.
+
+- Decision Aid Tool for Douglas County and Larimer County, CO, US (2018-2021). This project aimed at constructing, deploying and monitoring a machine learning tool to support decision making for screening referrals associated to child maltreatment at Douglas County and Larimer County. My role involved leading the Data Science and Software Engineering teams in the development, evaluation and deployment of this tool. The evaluation included aspects of model fairness and subgroup discrimination, as well as machine learning interpretability. Academic collaborators: Rhema Vaithianathan, AUT. Industry/government partners: Douglas County Department of Human Services, Larimer County Department of Human Services, Mathematica Public Policy.
+
+- Allegheny Family Screening Tool for Allegheny County Department of Human Services, PA, US (2016- 2021). This project aimed at constructing, deploying and monitoring a machine learning tool to support decision making for screening referrals associated to child maltreatment. My role involved leading the Data Science and Software Engineering teams in the development, evaluation and deployment of this tool. The evaluation included aspects of model fairness and subgroup discrimination. Academic collaborators: Rhema Vaithianathan, AUT, Emily Putnam-Hornstein, University of Southern California, Alexandra Chouldechova, Carnegie Mellon University. Industry/government partners: Allegheny County Department of Human Services.
+
+- Prototype Model for Alerta Ninez, Santiago, Chile (2018-2019). This project was part of a nationwide initiative for the improvement of child protection services. My role involved the identification of machine learning model options to support decision making in child protection. I also lead the assessment and evaluation of model alternatives in terms of fairness and subgroup discrimination. Academic collaborators: Rhema Vaithianathan, AUT, Maria Hermosilla, Adolfo Ibanez University. Industry/government partners: Ministry of Social Development, Chile.
+
+- Information Management Initiative for the Colombian Geology Survey, Bogota, Colombia (2013-2016). My role involved supporting the Data Architecture and Data Governance team in the design and evaluation of architectural alternatives. I also lead the design of methodologies for data quality assessment. Academic collaborators: Orlando Cuevas, Dario Correal, German Bravo, University of Los Andes. Industry/government partners: Colombian Geology Survey, Spanish Geology Survey.
+
+- Data Strategy for the Colombian Public Pension Fund (Colpensiones), Bogota, Colombia (2010-2012). My role involved advising the Colombian Public Pension Fund in their data strategy, including migration of data from their legacy systems, designing a new data architecture according to their new business processes, evaluating and improving their data quality and designing their data governance structure and policies. Academic collaborators: Orlando Cuevas, Maria Villamil, University of Los Andes. Industry/government partners: Colombian Public Pension Fund.
+
+
 
