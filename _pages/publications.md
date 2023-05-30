@@ -6,6 +6,7 @@ nav: true
 nav_order: 1
 ---
 
+
 - Knowles, K., Bensemann, J., Benavides-Prado, D., Yogarajan, V., Witbrock, M., Dobbie, G., & Chen, Y. (2023). Neuromodulation Gated Transformer. arXiv preprint arXiv:2305.03232.
 
 - Benavides-Prado, D., & Riddle, P. (2022). A Theory for Knowledge Transfer in Continual Learning. Proceedings of the Conference on Lifelong Learning Agents (CoLLAs). Available at: arXiv preprint arXiv:2208.06931.
