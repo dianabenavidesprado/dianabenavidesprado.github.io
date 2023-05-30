@@ -78,7 +78,7 @@ Conference Organiser / Committee Member:
 - Program Committee Member for Australasian Conference on Data Mining AusDM (2018).
 
 
-Supervision, Advisory and Mentoring: 
+Supervision Experience: 
 
 - Current students: K. Liu (PhD - Reinforcement Learning with Human Imitation), J. Ayling-Campbell (PhD - Continual Reinforcement Learning), C. Cory (PhD - Graph Neural Networks), A. Croot (Honours - Multimodal Continual Learning)
 
@@ -86,6 +86,8 @@ Supervision, Advisory and Mentoring:
 
 
 Teaching Experience:
+
+- Lecturer for Algorithmg for Massive Data (CS753), School of Computer Science, The University of Auckland, New Zealand.
 
 - Lecturer for Machine Learning for Decision Making Support in Public Sector High-Stakes Problems, Department of Systems Engineering and Computer Science, University of Los Andes, Colombia (Summer School course - delivered online).
 
