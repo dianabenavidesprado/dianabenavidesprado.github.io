@@ -51,7 +51,11 @@ Selected Talks/Seminars:
 - WOMBAT Conference - Melbourne Data Science Week (2017). "Implementation of a predictive model to support child maltreatment hotline screening decisions". Melbourne, Australia.
 
 
-Conference Organiser / Program Committee Member:
+Conference Organiser / Committee Member:
+
+- Program Chair for Australasian Data Mining Conference - AusDM (2023).
+
+- General Board Member, AIRA New Zealand (2022 - current).
  
 - Special Session Chair for Australasian Data Mining Conference - AusDM (2022).
 
@@ -76,9 +80,9 @@ Conference Organiser / Program Committee Member:
 
 Supervision, Advisory and Mentoring: 
 
-- Current: supervising 2 PhD students, mentoring 1 PhD student and 1 Summer Scholarship student.
+- Current students: K. Liu (PhD - Reinforcement Learning with Human Imitation), J. Ayling-Campbell (PhD - Continual Reinforcement Learning), C. Cory (PhD - Graph Neural Networks), A. Croot (Honours - Multimodal Continual Learning)
 
-- Past: supervising 1 Masters student, supervising 1 Honours student, mentoring 2 interns, supervising 3 summer scholarship students, supervising and mentoring 10+ technical staff.
+- Past students: S. Khanal (Masters - Continual Learning with Example Replay), C. Cory (Honours - Continual Learning with Example Replay), K. Knowles (Honours - Neuromodulation in Transformers)
 
 
 Teaching Experience:
