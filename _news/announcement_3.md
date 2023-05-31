@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-08-19
+date: 2023-05-20
 inline: true
 ---
 
-I will be presenting our paper "A Theory for Knowledge Transfer in Continual Learning" at CoLLAs 2022. <a href='https://virtual.lifelong-ml.cc/poster_58.html'>https://virtual.lifelong-ml.cc/poster_58.html<a> 
+I have been elected as a General Board Member of AIRA New Zealand for a second consecutive year.
