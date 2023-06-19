@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-05-15
+date: 2023-06-15
 inline: true
 ---
 
-I will be joining the School of Computer Science, The University of Auckland, as Lecturer/Assistant Professor.
+I will be attenting the Women in AI (APAC) Awards in Sydney, Australia.
