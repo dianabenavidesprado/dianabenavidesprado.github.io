@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-05-20
+date: 2023-10-01
 inline: true
 ---
 
-I have been elected as a General Board Member of AIRA New Zealand for second consecutive year.
+I am co-organising AusDM'23, to be held in Auckland, New Zealand. More info: <href> https://ausdm23.ausdm.org/ </href>
