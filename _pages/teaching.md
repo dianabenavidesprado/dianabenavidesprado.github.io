@@ -80,16 +80,14 @@ Conference Organiser / Committee Member:
 
 Supervision Experience: 
 
-- Current students: K. Liu (PhD - Reinforcement Learning with Human Imitation), J. Ayling-Campbell (PhD - Continual Reinforcement Learning), A. Croot (Honours - Multimodal Continual Learning), I. Kinigama (Adaptive Learning Rate in Continual Learning)
+- Current students: K. Liu (PhD - Reinforcement Learning with Human Imitation), J. Ayling-Campbell (PhD - Continual Reinforcement Learning), I. Kinigama (Adaptive Learning Rate in Continual Learning)
 
-- Past students: S. Khanal (Masters - Continual Learning with Example Replay), C. Cory (Honours - Continual Learning with Example Replay), K. Knowles (Honours - Neuromodulation in Transformers)
+- Past students: A. Croot (Honours - Multimodal Continual Learning), S. Khanal (Masters - Continual Learning with Example Replay), C. Cory (Honours - Continual Learning with Example Replay), K. Knowles (Honours - Neuromodulation in Transformers)
 
 
 Teaching Experience:
 
 - Lecturer for Generalising AI (CS703), School of Computer Science, The University of Auckland, New Zealand.
-
-- Lecturer for AI Fundamentals (CS713), School of Computer Science, The University of Auckland, New Zealand.
 
 - Lecturer for Algorithms for Massive Data (CS753), School of Computer Science, The University of Auckland, New Zealand.
 
