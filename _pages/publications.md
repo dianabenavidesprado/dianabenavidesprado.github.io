@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-- Benavides-Prado, D., Erfani, S., Fournier-Viger, P., Boo, Y.L., Koh, Y.S. Data Science and Machine Learning: 21st Australasian Conference, AusDM 2023, Auckland, New Zealand, December 11–13, 2023, Proceedings. Springer CCIS Volume 1943.
+- Benavides-Prado, D., Erfani, S., Fournier-Viger, P., Boo, Y.L., Koh, Y.S. (2024). Data Science and Machine Learning: 21st Australasian Conference, AusDM 2023, Auckland, New Zealand, December 11–13, 2023, Proceedings. Springer CCIS Volume 1943.
 
 - Hartill, T., Benavides-Prado, D., Witbrock, M., & Riddle, P. J. (2023). Answering unseen questions with smaller language models using rationale generation and dense retrieval. arXiv preprint arXiv:2308.04711.
 
