@@ -53,7 +53,13 @@ Selected Talks/Seminars:
 
 Conference Organiser / Committee Member:
 
-- Program Chair for Australasian Data Mining Conference - AusDM (2023).
+- General Chair for for Australasian Data Science and Machine Learning Conference - AusDM (2024).
+
+- Program Committee Member for European Conference on Artificial Intelligence - ECAI (2024).
+
+- Reviewer for Transactions on Machine Learning Research Journal - TMLR (2023 - current).
+
+- Program Chair for Australasian Data Science and Machine Learning Conference - AusDM (2023).
 
 - General Board Member, AIRA New Zealand (2022 - current).
  
