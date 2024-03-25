@@ -53,7 +53,7 @@ Selected Talks/Seminars:
 
 Conference Organiser / Committee Member:
 
-- General Chair for for Australasian Data Science and Machine Learning Conference - AusDM (2024).
+- General Co-Chair for Australasian Data Science and Machine Learning Conference - AusDM (2024).
 
 - Program Committee Member for European Conference on Artificial Intelligence - ECAI (2024).
 
