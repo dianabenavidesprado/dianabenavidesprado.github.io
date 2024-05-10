@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-Service Roles
+Service Roles:
 
 - General Co-Chair and Program Committee Chair (Application Track) for Australasian Data Science and Machine Learning Conference - AusDM (2024).
 
@@ -45,7 +45,8 @@ Service Roles
 - Reporter for Machine Learning and Data Mining - MLDM Conference (2015).
 
 
-\section*{Selected Contributed Talks}
+
+Selected Contributed Talks:
 
 - Conference on Lifelong Learning Agents - CoLLAs (2022). A Theory for Knowledge Transfer in Continual Learning. Onlinfe Conference.
 
