@@ -8,11 +8,11 @@ nav_order: 5
 
 Teaching Experience:
 
-- Lecturer and Course Coordinator for Deep Learning (CS764), School of Computer Science, The University of Auckland, New Zealand.
+- Lecturer for Deep Learning (CS764), School of Computer Science, The University of Auckland, New Zealand.
 
 - Lecturer and Course Coordinator for Generalising AI (CS703), School of Computer Science, The University of Auckland, New Zealand.
 
-- Lecturer for Algorithms for Massive Data (CS753), School of Computer Science, The University of Auckland, New Zealand.
+- Lecturer and Course Coordinator for Algorithms for Massive Data (CS753), School of Computer Science, The University of Auckland, New Zealand.
 
 - Lecturer for Machine Learning for Decision Making Support in Public Sector High-Stakes Problems, Department of Systems Engineering and Computer Science, University of Los Andes, Colombia (Summer School course - delivered online).
 
