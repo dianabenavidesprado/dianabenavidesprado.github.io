@@ -48,6 +48,10 @@ Service Roles:
 
 Selected Contributed Talks:
 
+- School of Mathematical Sciences, University of Southampton (2024). Continual Supervised Learning for Increasingly Intelligent Machine Learning Systems. 
+
+- Australasian Data Science and Machine Learning Conference (2023). Opening Remarks. 
+
 - Conference on Lifelong Learning Agents - CoLLAs (2022). A Theory for Knowledge Transfer in Continual Learning. Onlinfe Conference.
 
 - Advanced Machine Learning with Deep Neural Networks (2022). Developers Institute, New Zealand.
