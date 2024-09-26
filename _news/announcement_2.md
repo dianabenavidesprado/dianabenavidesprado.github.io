@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-08-01
+date: 2024-09-01
 inline: true
 ---
 
-I have been granted the New Staff Research Award - Faculty of Science UoA.
+I am serving as an arXiv Moderator (cs.LG).
