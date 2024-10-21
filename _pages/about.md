@@ -24,6 +24,4 @@ I currently work as a Lecturer in Computer Science (AI & ML) at The University o
 
 [LinkedIn](https://nz.linkedin.com/in/diana-benavides-prado) 
 
-[Twitter](https://twitter.com/dianabenavidesp)
-
 [Google Scholar](https://scholar.google.com/citations?user=ayeIzIgAAAAJ&hl=en&oi=ao)

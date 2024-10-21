@@ -31,7 +31,7 @@ Teaching Experience:
 
 Supervision Experience: 
 
-- Current students: Y. Suchen (PhD - Computational Humor in NLP), J. Ayling-Campbell (PhD - Continual Reinforcement Learning), K. Liu (PhD - Reinforcement Learning with Human Imitation), C. Cory (PhD - Scalable and Stable Graph Networks), C. Leng (Masters - Introduction of AI Capabilities), E. Luo (Masters - Data Governance on Snowflake)
+- Current students: Y. Wang (PhD - Continual Machine Unlearning), Y. Suchen (PhD - Computational Humor in NLP), J. Ayling-Campbell (PhD - Continual Reinforcement Learning), K. Liu (PhD - Reinforcement Learning with Human Imitation), C. Cory (PhD - Scalable and Stable Graph Networks), C. Leng (Masters - Introduction of AI Capabilities), E. Luo (Masters - Data Governance on Snowflake)
 
 - Past students: I. Kinigama (Honours - Adaptive Learning Rate in Continual Learning), D. Xu (Honours - Data Streams with Fingerprinting), S. Chaudary (Masters - LLMs in Enterprise Environments), A. Croot (Honours - Multimodal Continual Learning), S. Khanal (Masters - Continual Learning with Example Replay), C. Cory (Honours - Continual Learning with Example Replay), K. Knowles (Honours - Neuromodulation in Transformers)
 
