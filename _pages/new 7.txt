@@ -1,0 +1,32 @@
+Neural networks that overcome classic challenges through practice
+
+Long Term Memory: The Foundation of AI Self-Evolution
+
+Ask, and it shall be given: Turing completeness of prompting
+
+Thinking Forward and Backward: Effective Backward Planning with Large Language Models
+
+Geometry of naturalistic object representations in recurrent neural network models of working memory
+
+ScaleKD: Strong Vision Transformers Could Be Excellent Teacher
+
+Inductive Graph Few-shot Class Incremental Learning
+
+Using Diffusion Models as Generative Replay in Continual Federated Learning -- What will Happen?
+
+Infinite Width Limits of Self Supervised Neural Networks
+
+Mapping out the Space of Human Feedback for Reinforcement Learning: A Conceptual Framework
+
+Continual Deep Reinforcement Learning with Task-Agnostic Policy Distillation
+ Muhammad Burhan HafezKerim Erekmen
+Comment:
+Accepted for publication in Scientific Reports
+
+Qubic AGI Journey
+Jose Sanchez David Vivancos
+
+Hierarchically Gated Experts for Efficient Online Continual Learning
+Kevin Luong Michael Thielscher
+
+

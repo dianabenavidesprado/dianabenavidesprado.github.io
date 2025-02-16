@@ -8,9 +8,11 @@ nav_order: 5
 
 Teaching Experience:
 
-- Lecturer and Course Director for Deep Learning (CS764), School of Computer Science, The University of Auckland, New Zealand.
+- Lecturer, Course Coordinator and Course Director for Machine Learning (CS361), School of Computer Science, The University of Auckland, New Zealand.
 
 - Lecturer and Course Coordinator for Generalising AI (CS703), School of Computer Science, The University of Auckland, New Zealand.
+
+- Lecturer and Course Director for Deep Learning (CS764), School of Computer Science, The University of Auckland, New Zealand.
 
 - Lecturer for Algorithms for Massive Data (CS753), School of Computer Science, The University of Auckland, New Zealand.
 
@@ -31,8 +33,8 @@ Teaching Experience:
 
 Supervision Experience: 
 
-- Current students: Y. Wang (PhD - Continual Machine Unlearning), Y. Suchen (PhD - Computational Humor in NLP), J. Ayling-Campbell (PhD - Continual Reinforcement Learning), K. Liu (PhD - Reinforcement Learning with Human Imitation), C. Cory (PhD - Scalable and Stable Graph Networks), C. Leng (Masters - Introduction of AI Capabilities), E. Luo (Masters - Data Governance on Snowflake)
+- Current students: Y. Wang (PhD - Continual Machine Unlearning), Y. Suchen (PhD - Computational Humor in NLP), J. Ayling-Campbell (PhD - Continual Reinforcement Learning), K. Liu (PhD - Reinforcement Learning with Human Imitation), C. Cory (PhD - Scalable and Stable Graph Networks)
 
-- Past students: I. Kinigama (Honours - Adaptive Learning Rate in Continual Learning), D. Xu (Honours - Data Streams with Fingerprinting), S. Chaudary (Masters - LLMs in Enterprise Environments), A. Croot (Honours - Multimodal Continual Learning), S. Khanal (Masters - Continual Learning with Example Replay), C. Cory (Honours - Continual Learning with Example Replay), K. Knowles (Honours - Neuromodulation in Transformers)
+- Past students: C. Leng (Masters - Introduction of AI Capabilities), E. Luo (Masters - Data Governance on Snowflake), I. Kinigama (Honours - Adaptive Learning Rate in Continual Learning), D. Xu (Honours - Data Streams with Fingerprinting), S. Chaudary (Masters - LLMs in Enterprise Environments), A. Croot (Honours - Multimodal Continual Learning), S. Khanal (Masters - Continual Learning with Example Replay), C. Cory (Honours - Continual Learning with Example Replay), K. Knowles (Honours - Neuromodulation in Transformers)
 
 
