@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-03-01
+date: 2025-07-01
 inline: true
 ---
 
-I am serving as a Senior Program Committee member at the CoLLAs conference 2025.
+I will be joining Queen Mary University of London as a Lecturer at the School of Electronic Engineering and Computer Science.

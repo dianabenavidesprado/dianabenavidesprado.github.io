@@ -18,9 +18,7 @@ I am a computer scientist with over 10 years of professional and research experi
 
 My professional experience includes leadership of foundational research projects in advanced areas such as transfer learning, continual machine learning, large language models, and human-algorithm collaboration. I am particularly interested in studying the opportunities for knowledge transfer in increasingly knowledgeable continual learning systems and applying cutting-edge machine learning techniques to challenging real-world problems, especially in the life sciences domain and human well-being.
 
-I have extensive experience as an invited speaker, organizer, and committee member of several top artificial intelligence conferences, including AAAI, IJCAI, NeurIPS, ICML and ICDM. Additionally, I am a board member of the Artificial Intelligence Researchers Association of New Zealand.
-
-I currently work as a Lecturer in Computer Science (AI & ML) at The University of Auckland, New Zealand. I am also a CEO for Manoa Data/Manoa Data Aotearoa. 
+I have extensive experience as an invited speaker, organizer, and committee member of several top artificial intelligence conferences, including AAAI, IJCAI, NeurIPS, ICML and ICDM. 
 
 [LinkedIn](https://nz.linkedin.com/in/diana-benavides-prado) 
 
