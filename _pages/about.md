@@ -6,10 +6,10 @@ subtitle: <a href='#'>AI/ML/Data Strategist and Researcher</a>
 
 profile:
   align: right
-  image: diana.jpg
+  image: DianaBenP.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Auckland, New Zealand</p>
+    <p>London, England, UK</p>
 
 news: true
 ---
