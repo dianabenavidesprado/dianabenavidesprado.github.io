@@ -20,6 +20,8 @@ My professional experience includes leadership of foundational research projects
 
 I have extensive experience as an invited speaker, organizer, and committee member of several top artificial intelligence conferences, including AAAI, IJCAI, NeurIPS, ICML and ICDM. 
 
+I am currently a Lecturer in Machine Learning and AI at the School of Electronic Engineering and Computer Science (EECS), Queen Mary University of London. I am also part of the [MInDS](https://minds.qmul.ac.uk/index.php/team/) research group at EECS.
+
 [LinkedIn](https://nz.linkedin.com/in/diana-benavides-prado) 
 
 [Google Scholar](https://scholar.google.com/citations?user=ayeIzIgAAAAJ&hl=en&oi=ao)
