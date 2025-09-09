@@ -8,6 +8,8 @@ nav_order: 5
 
 Service Roles:
 
+- Machine Learning (cs.LG) Moderator for arXiv. 
+
 - General Co-Chair and Program Committee Chair (Application Track) for Australasian Data Science and Machine Learning Conference - AusDM (2024).
 
 - Program Committee Member for European Conference on Artificial Intelligence - ECAI (2024).
