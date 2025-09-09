@@ -8,7 +8,9 @@ nav_order: 5
 
 Teaching Experience:
 
-- Lecturer, Course Coordinator and Course Director for Machine Learning (CS361), School of Computer Science, The University of Auckland, New Zealand.
+- Lecturer for Principles of Machine Learning (ECS663U/ECS7020P), School of Electronic Engineering and Computer Science, Queen Mary University of London, UK.
+
+- Lecturer for Machine Learning (CS361), School of Computer Science, The University of Auckland, New Zealand.
 
 - Lecturer and Course Coordinator for Generalising AI (CS703), School of Computer Science, The University of Auckland, New Zealand.
 
