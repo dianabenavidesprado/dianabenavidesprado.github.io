@@ -6,6 +6,14 @@ nav: true
 nav_order: 1
 ---
 
+- Su, Y., Zhu, Y., Wang, R., Huang, Z., Benavides-Prado, D., Witbrock, M. (2025). A Survey of Pun Generation: Datasets, Evaluations and Methodologies. To appear in Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP). Association for Computational Linguistics.
+
+- Su, Y., Zhu, Y., Chen, Y., Benavides-Prado, D., Witbrock, M. (2025). Psychology-Driven Enhancement of Humour Translation. To appear in Proceedings of the International Conference on Neural Information Processing. Springer.
+
+- Vaithianathan, R., Benavides-Prado, D., Rebbe, R., Putman-Hornstein, E. (2025). Using a Predictive Risk Model to Identify Families for a Prevention Program: The Hello Baby Program in Allegheny County, PA. Prevention Science. Springer Nature.
+
+- Yogarajan, V., Rayson, P., Dobbie, G., Keesing, A., Keegan, T.T.,  Benavides-Prado, D., Witbrock, M. (2024). Annotator Disagreement-based Analysis for Developing Bias Benchmark Datasets in Resource-Restricted Settings. Proceedings of the International Conference on Neural Information Processing. Springer.
+
 - Benavides-Prado, D., Erfani, S., Fournier-Viger, P., Boo, Y.L., Koh, Y.S. (2024). Data Science and Machine Learning: 21st Australasian Conference, AusDM 2023, Auckland, New Zealand, December 11–13, 2023, Proceedings. Springer CCIS Volume 1943.
 
 - Hartill, T., Benavides-Prado, D., Witbrock, M., & Riddle, P. J. (2023). Answering unseen questions with smaller language models using rationale generation and dense retrieval. arXiv preprint arXiv:2308.04711.
