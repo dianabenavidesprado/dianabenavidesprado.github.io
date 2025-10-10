@@ -6,6 +6,8 @@ nav: true
 nav_order: 1
 ---
 
+- Cory, C., Qiao, M., Benavides-Prado, D., Koh, Y.S., Benavides-Prado, D. (2025). Message-Passing under Heterophily for Graph Classification. To appear in Workshop Proceedings of the IEEE International Conference on Data Mining (ICDMW). IEEE.
+
 - Su, Y., Zhu, Y., Wang, R., Huang, Z., Benavides-Prado, D., Witbrock, M. (2025). A Survey of Pun Generation: Datasets, Evaluations and Methodologies. To appear in Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP). Association for Computational Linguistics.
 
 - Su, Y., Zhu, Y., Chen, Y., Benavides-Prado, D., Witbrock, M. (2025). Psychology-Driven Enhancement of Humour Translation. To appear in Proceedings of the International Conference on Neural Information Processing. Springer.

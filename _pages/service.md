@@ -16,11 +16,11 @@ Service Roles:
 
 - Program Committee Chair (Research Track) for Australasian Data Science and Machine Learning Conference - AusDM (2023).
 
-- Assistant Deputy Head of School (Research), School of Computer Science, The University of Auckland (2023 - current).
+- Assistant Deputy Head of School (Research), School of Computer Science, The University of Auckland (2023 - 2024).
 
 - Reviewer for Transactions on Machine Learning Research Journal - TMLR (2023 - current).
 
-- General Board Member of the Artificial Intelligence Researchers Association of New Zealand - AIRA (2023 - current).
+- General Board Member of the Artificial Intelligence Researchers Association of New Zealand - AIRA (2023 - 2025).
 
 - Special Session Chair for Australasian Data Mining Conference - AusDM (2022).
 
