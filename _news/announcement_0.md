@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-07-01
+date: 2025-11-01
 inline: true
 ---
 
-I will be joining Queen Mary University of London as a Lecturer at the School of Electronic Engineering and Computer Science.
+Two of my PhD students are presenting their work this month — one at [EMNLP](https://aclanthology.org/2025.findings-emnlp.389/) and the other at ICDM GTA3 Workshop!
