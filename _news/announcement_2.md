@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-03-01
+date: 2025-11-01
 inline: true
 ---
 
-I am serving as a Senior Program Committee member at the CoLLAs conference 2025.
+Two of my PhD students are presenting their work this month — one at [EMNLP](https://aclanthology.org/2025.findings-emnlp.389/) and the other at ICDM GTA3 Workshop!
