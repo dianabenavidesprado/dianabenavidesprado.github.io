@@ -10,6 +10,8 @@ Service Roles:
 
 - Machine Learning (cs.LG) Moderator for arXiv. 
 
+- Program Committee Member for Association for Computational Linguistics - ACL Conference (2025 - current).
+
 - General Co-Chair and Program Committee Chair (Application Track) for Australasian Data Science and Machine Learning Conference - AusDM (2024).
 
 - Program Committee Member for European Conference on Artificial Intelligence - ECAI (2024).
