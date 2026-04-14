@@ -6,11 +6,13 @@ nav: true
 nav_order: 1
 ---
 
-- Cory, C., Qiao, M., Benavides-Prado, D., Koh, Y.S., Benavides-Prado, D. (2025). Message-Passing under Heterophily for Graph Classification. To appear in Workshop Proceedings of the IEEE International Conference on Data Mining (ICDMW). IEEE.
+- Wang, Y., Benavides-Prado, D., Koh, Y.S. (2026). To appear in Proceedings of the International Conference on Learning Representations (ICLR).
 
-- Su, Y., Zhu, Y., Wang, R., Huang, Z., Benavides-Prado, D., Witbrock, M. (2025). A Survey of Pun Generation: Datasets, Evaluations and Methodologies. To appear in Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP). Association for Computational Linguistics.
+- Cory, C., Qiao, M., Benavides-Prado, D., Koh, Y.S., Benavides-Prado, D. (2025). Message-Passing under Heterophily for Graph Classification. Workshop Proceedings of the IEEE International Conference on Data Mining (ICDMW). IEEE.
 
-- Su, Y., Zhu, Y., Chen, Y., Benavides-Prado, D., Witbrock, M. (2025). Psychology-Driven Enhancement of Humour Translation. To appear in Proceedings of the International Conference on Neural Information Processing. Springer.
+- Su, Y., Zhu, Y., Wang, R., Huang, Z., Benavides-Prado, D., Witbrock, M. (2025). A Survey of Pun Generation: Datasets, Evaluations and Methodologies. Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP). Association for Computational Linguistics.
+
+- Su, Y., Zhu, Y., Chen, Y., Benavides-Prado, D., Witbrock, M. (2025). Psychology-Driven Enhancement of Humour Translation. Proceedings of the International Conference on Neural Information Processing. Springer.
 
 - Vaithianathan, R., Benavides-Prado, D., Rebbe, R., Putman-Hornstein, E. (2025). Using a Predictive Risk Model to Identify Families for a Prevention Program: The Hello Baby Program in Allegheny County, PA. Prevention Science. Springer Nature.
 
