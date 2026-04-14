@@ -32,11 +32,7 @@ While my work is rooted in fundamental theory, I apply these insights to solve c
 
 <strong>Academic Leadership & Community</strong>
 
-I am an active contributor to the international AI research community. 
-
-I serve as an arXiv Moderator (Machine Learning category) and on the editorial boards of Data Science and Engineering and Neural Computing and Applications (Springer).
-
-I am a frequent Program Committee member/Senior Program Committee Member for top-tier venues including NeurIPS, ICML, ICLR, AAAI, and IJCAI.
+I am an active contributor to the international AI research community. I serve as an arXiv Moderator (Machine Learning category) and on the editorial boards of Data Science and Engineering and Neural Computing and Applications (Springer). I am a frequent Program Committee member/Senior Program Committee Member for top-tier venues including NeurIPS, ICML, ICLR, AAAI, and IJCAI.
 
 With a deep commitment to pedagogical research, I deliver undergraduate and postgraduate AI courses that bridge theoretical foundations with hands-on, research-led practice.
 
