@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-Service Roles:
+<strong>Service Roles</strong>:
 
 - Machine Learning (cs.LG) Moderator for arXiv. 
 
@@ -50,7 +50,7 @@ Service Roles:
 
 
 
-Selected Contributed Talks:
+<strong>Selected Contributed Talks</strong>:
 
 - School of Mathematical Sciences, University of Southampton (2024). Continual Supervised Learning for Increasingly Intelligent Machine Learning Systems. 
 
