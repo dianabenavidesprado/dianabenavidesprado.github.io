@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-- Wang, Y., Benavides-Prado, D., Koh, Y.S. (2026). To appear in Proceedings of the International Conference on Learning Representations (ICLR).
+- Wang, Y., Benavides-Prado, D., Koh, Y.S. (2026). Detect, Decide, Unlearn: A Transfer-Aware Framework for Continual Learning. To appear in Proceedings of the International Conference on Learning Representations (ICLR).
 
 - Cory, C., Qiao, M., Benavides-Prado, D., Koh, Y.S., Benavides-Prado, D. (2025). Message-Passing under Heterophily for Graph Classification. Workshop Proceedings of the IEEE International Conference on Data Mining (ICDMW). IEEE.
 
