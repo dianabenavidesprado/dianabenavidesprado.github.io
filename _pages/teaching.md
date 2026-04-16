@@ -35,7 +35,7 @@ nav_order: 5
 
 <strong>Supervision Experience</strong>: 
 
-- Current students: Y. Wang (PhD - Continual Machine Unlearning), Y. Suchen (PhD - Computational Humor in NLP), J. Ayling-Campbell (PhD - Continual Reinforcement Learning), C. Cory (PhD - Scalable and Stable Graph Networks), O. Moreno (Masters - Continual Learning of Low Resource Languages), G.B. Ruellan (Masters - Safety Degradation in Sequential LLMs).  
+- Current students: Y. Wang (PhD - Continual Machine Unlearning), Y. Su (PhD - Computational Humor in NLP), J. Ayling-Campbell (PhD - Continual Reinforcement Learning), C. Cory (PhD - Scalable and Stable Graph Networks), O. Moreno (Masters - Continual Learning of Low Resource Languages), G.B. Ruellan (Masters - Safety Degradation in Sequential LLMs).  
 
 - Past students: Y. Yuan (Masters - Adaptive Meta-Learning Framework for Dynamic Task Adaptation), M. Sun (Masters - Experience Replay for Autonomous Driving), C. Liu (Masters - Interpretable and Robust Evaluation Framework for Continual Learning), C. Leng (Masters - Introduction of AI Capabilities), E. Luo (Masters - Data Governance on Snowflake), I. Kinigama (Honours - Adaptive Learning Rate in Continual Learning), D. Xu (Honours - Data Streams with Fingerprinting), S. Chaudary (Masters - LLMs in Enterprise Environments), A. Croot (Honours - Multimodal Continual Learning), S. Khanal (Masters - Continual Learning with Example Replay), C. Cory (Honours - Continual Learning with Example Replay), K. Knowles (Honours - Neuromodulation in Transformers)
 
