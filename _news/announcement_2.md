@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-11-01
+date: 2026-01-01
 inline: true
 ---
 
-Two of my PhD students are presenting their work this month — one at [EMNLP](https://aclanthology.org/2025.findings-emnlp.389/) and the other at ICDM GTA3 Workshop!
+I am serving as a Senior Program Committee member for IJCAI 2026 AI and Social Good Track. More information on how to submit [here](https://2026.ijcai.org/ijcai-ecai-2026-call-for-papers-ai4good/).
